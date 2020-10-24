@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Template</string>
+    <string name="app_ver">ver %s</string>
+</resources>
