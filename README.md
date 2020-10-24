@@ -1,5 +1,6 @@
-Requiretmen:
+Requirement:
 - Minimum API Level 21
+- Java
 
 Feature:
 - Splash Screen
